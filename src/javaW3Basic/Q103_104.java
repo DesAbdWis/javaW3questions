@@ -2,7 +2,7 @@ package javaW3Basic;
 
 import java.util.Arrays;
 
-public class Q103104 {
+public class Q103_104 {
 
 	public static void main(String[] args) {
 
